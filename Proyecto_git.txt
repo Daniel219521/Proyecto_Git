@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 SEGON CAMBI EN MASTER
+=======
+TEXT MODIFICAT
+>>>>>>> branch1
